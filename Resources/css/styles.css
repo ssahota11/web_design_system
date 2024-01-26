@@ -1,0 +1,89 @@
+/* Universal Styles */
+.rectangle {
+  width:  75%;
+  background-color: transparent;
+  border: 1px solid black;
+  margin: auto;
+  padding: 10px;
+}
+
+/* Header */
+.header {
+  padding: 10px; 
+}
+
+/* Colors */
+.color_box {
+  width: 20em ;
+  margin: 10px;
+  padding: 10px;
+  display: inline-block;
+}
+
+.blue_box {
+    background-color: #2d5dcc;
+    color: #fff;
+    text-align: center;
+    line-height: 2.5;
+}
+
+.pink_box {
+    background-color: #d957d9;
+    color: #fff;
+    text-align: center;
+    line-height: 2.5;
+}
+
+.mint_box {
+    background-color: #4fe0b0;
+    color: #fff;
+    text-align: center;
+    line-height: 2.5;
+}
+.beige_box {
+    background-color: #efd9ca;
+    color: #fff;
+    text-align: center;
+    line-height: 2.5;
+}
+
+/* Fonts  */
+
+.all_fonts {
+  width: 30em ;
+  margin: 10px;
+  padding: 10px;
+  display: inline-block;
+
+}
+.underline {
+    text-decoration: underline;
+}
+
+.first_line {
+    line-height: 2.5; 
+}
+
+.second_line {
+    font-style: italic;
+    line-height: 2.5; 
+}
+
+.third_line {
+    font-weight: bold;
+    line-height: 2.5;
+}
+
+.source_code_pro {
+    font-family: 'Source Code Pro', monospace;
+}
+
+.sans_serif {
+    font-family: sans-serif;
+}
+
+.fantasy {
+    font-family:fantasy;
+}
+
+/* Text Styles  */
